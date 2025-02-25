@@ -1,5 +1,6 @@
 👋 Hi, I'm Stephen Uweh
-🚀 Software Engineer with over 4 years of experience in building scalable and efficient backend systems. I specialize in Node.js, TypeScript, Python, and PHP, working with frameworks like NestJS, Laravel, and Express.js. I also have experience with cloud infrastructure (AWS, Docker, CI/CD), database management (PostgreSQL, MySQL, ClickHouse), and payment systems (Stripe, Paymentology integration).
+
+🚀 Software Engineer with over 4 years of experience in building scalable and efficient backend systems. I specialize in Node.js, TypeScript, Python, and PHP, working with frameworks like NestJS, Laravel, and Express.js. I also have experience with cloud infrastructure (AWS, Docker, CI/CD), database management (PostgreSQL, MySQL, ClickHouse).
 
 🔹 What I Do
 Backend Development – Scalable APIs, Microservices, Authentication & Authorization.
