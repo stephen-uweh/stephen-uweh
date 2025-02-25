@@ -14,6 +14,6 @@
 - 🔹 Rev-Payy – A Node.js-based payment system handling real-time transactions.
 
 📫 Let's Connect
-🌐 Portfolio
-💼 LinkedIn
-📧 Email
+- 🌐 Portfolio
+- 💼 LinkedIn
+- 📧 Email
